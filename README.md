@@ -1,1 +1,1 @@
-# letter-pyramid
+# Letter Pyramid
